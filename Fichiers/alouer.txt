@@ -1,0 +1,6 @@
+75 | ezzahra | 5 | 500 | tunis | 300 | o
+76 | ezzahra | 5 | 500 | sd | 300 | o
+76 | ennakhil | 3 | 350 | benarous | 200 | o
+78 |  |  |  |  |  | n
+78 |  |  |  |  |  | n
+78 |  |  |  |  |  | n

@@ -1,0 +1,8 @@
+Mr. hamdi hatem a louer la maison d'adresse ezzahra au Mr. arafet azzabi avec le prix 500.
+Mr. hamdi hatem a louer la maison d'adresse 'ezzahra' au Mr. arafet azzabi avec le prix 500 DT.
+Mr. hamdi hatem a vendu la maison d'adresse 'ezzahra' au Mr. arafet azzabi avec le prix 500 DT.
+Mr. gssem hmza a louer la maison d'adresse 'ennakhil' au Mr. oussema khadhra avec le prix 350 DT.
+Mr. gssem hmza a louer la maison d'adresse 'ennakhil' au Mr. oussema khadhra avec le prix 350 DT.
+Mr. hamdi hatem a louer la maison d'adresse 'ezzahra' au Mr. arafet azzabi avec le prix 600 DT.
+Mr. gssem hmza a louer la maison d'adresse 'ennakhil' au Mr. arafet azzabi avec le prix 350 DT.
+Mr. gssem hmza a louer la maison d'adresse 'ennakhil' au Mr. arafet azzabi avec le prix 350 DT.

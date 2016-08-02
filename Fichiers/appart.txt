@@ -1,0 +1,4 @@
+6 | l | khadhra | nakhil | 5 | o | 500 | o | 200 | 25.00
+6 | l | khadhra | nakhil | 5 | o | 500 | o | 200 | 25.00
+6 | l | khadhra | nakhil | 5 | o | 500 | o | 200 | 25.00
+66 | l | manar | tunis | 5 | o | 750 | o | 200 | 37.00

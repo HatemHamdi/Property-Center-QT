@@ -1,0 +1,72 @@
+void recherche_nom_propri(FILE *fp1 , pr[ ] , int *n)
+char val [20] ;
+int i ;
+printf ("donner la valeur de recherche");
+scanf( "%s" ,  val );
+  for (i=0 ; i<n ; i++)  
+ if ( *(prop.nom)==val)
+printf("%s%s%s%s" , pr.nom ,pr.prenom,pr.tel, ...)
+
+
+
+void recherche_villeappart (FILE *fp2, appart[ ] )
+{
+char val [20] ;
+int i ;
+
+gets (&val)
+for (i=0 ; i<n ;i++)
+if (*(appart.ville)==val)
+printf("%s%s%s%d%d%d",appart.adresse , ......);
+}
+
+
+
+
+void recherche_prixappart(FILE *fp2 , appart[ ] , int *n)
+{
+int i , val [20} ;
+scanf("%d" , val);
+for (i=0 ; i<n ; i++)
+if (val == *(appart.prix))
+ printf(......,........)
+}
+
+
+
+
+void recherche_appartetat(FILE*fp2 , appart[ ] , int *n )
+{
+int i ; char val ;
+printf("vendre ou a louer V/R " );
+scanf("%c", val );
+for (i=0 ; i<n ; i++)
+if (val==*(appart.etat))
+printf(.....,....);
+}
+
+
+
+
+void recherche_nom locataire(FILE *fp4 , locat [ ] , int *n )
+{ 
+int i ;
+char val [20];
+scanf("%s", val);
+for (i=0 ; i<n ; i++)
+if (locat.nom==val)
+printf("%s%s%s%s", locat->nom , locat->prenom , locat->tel , locat->adresse) ;
+}
+
+
+
+
+void recherche_nomclient(FILE *fp3 , cli [ ] )
+{
+int i ;
+char val [20] ;
+scanf("%s", & val);
+for (i=0 ; i<n ; i++)
+if (*(cl.nom)==val)
+printf(........,......);
+}
